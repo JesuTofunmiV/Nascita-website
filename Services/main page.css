@@ -1,0 +1,344 @@
+body{
+    display: block;
+}
+div h1{
+    font-weight: bolder;
+    font-size: 72px;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+    
+}
+div h2{
+    
+    font-size: 56px;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+div h3{
+    
+    font-size: 40px;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+div h4{
+    
+    font-size: 32px;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+div h5{
+    
+    font-size: 24px;
+    font-weight: 800;
+    margin-top: 8px;
+    margin-bottom: 0px;
+    
+}
+div h6{
+
+    font-size: 18px;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+div p1{
+    
+    font-size: 16px;
+    color :#1e1b4b;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+div p2{
+    font-size: 12px;
+    
+}
+div p3{
+    font-size: 8px;
+    padding-top: 0px;
+
+    
+}
+.Page-Header{
+    display: flex;
+    border: solid 0.5px #1e1b4b;
+    align-content: center;
+    justify-content: space-between;
+    background-color: #1e1b4b;
+    height: 48px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    color: #fff;
+    padding-left: 24px;
+    
+    
+}
+.menu-CTA{
+    color:#1e1b4b;
+    background-color: #fff;
+    font-family: inherit;
+    font-weight: 600;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 64px;
+    border: solid #fff 0.5px;
+    border-radius: 4px;
+    margin-left: 32px;
+}
+
+.section-A{
+    height: 832px;
+    align-items: center;
+    margin-bottom: 32px;
+    width: 100%;
+    top: 0;
+    background-image: url(services\ bg\ \(1\).png);
+    display: block;
+    text-align: left;
+    background-color: black;
+    
+    
+}
+.section-A h2{
+    padding-top: 240px;
+    color: #fff;
+    padding-left: 32px;
+
+}
+.section-A p2{
+    padding-left: 32px;
+    color: #fff;
+}
+.hero-section button{
+    margin-top: 16px;
+}
+.section-B{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 140px;
+    padding-top: 64px;
+    align-content: center;
+
+}
+.text-B{
+    display: block;
+    color: #1e1b4b;
+    padding-left: 32px;
+    padding-top: 24px;
+    margin: 0;
+}
+.text-B button{
+    background-color: #1e1b4b;
+    color: #fff;
+    margin-top: 16px;
+    margin-left: 0px;
+    justify-content: space-between;
+}
+.form{
+    display: block;
+    background-color: #1e1b4b;
+    padding-top: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 12px;
+    width: 400px;
+    margin: 0;
+}
+.form input{
+    background-color: #fff;
+    width: 92%;
+    font-style: italic;
+    padding-left: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin: 4px;
+    border-radius: 4px;
+}
+.form button{
+    margin: 16px;
+}
+.message{
+    height: 48px;
+    text-align: start;
+}
+.section-C{
+    display: flex;
+    width: 100%;
+    background-image: url(services\ 3.png);
+    margin: 0;
+    background-size: cover;
+}
+.text-C{
+    display: block;
+    background-color: #1e1b4b;
+    color: #fff;
+    padding-left: 164px;
+    padding-top: 24px;
+    padding-right: 32px;
+    padding-bottom: 24px;
+}
+.text-C h4{
+    padding-bottom: 40px;
+    padding-top: 16px;
+}
+.minitext-C{
+    display: flex;
+}
+.img-C{
+    padding-top: 40px;
+}
+.small-C{
+    display: block;
+    padding-left: 24px;
+    padding-bottom: 64px;
+}
+.section-D{
+    display: block;
+    padding-left: 48px;
+    padding-top: 120px;
+}
+.text-D{
+    display: block;
+}
+.Services-D{
+    display: block;
+}
+.mini-services{
+    display: flex;
+    width: 100%;
+   justify-content: center;
+}
+.small-D{
+    display: block;
+    text-align: center;
+    background-color: #fff;
+    color: #1e1b4b;
+    border: solid #1e1b4b 0.1px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 104px;
+    padding-right: 104px;
+    margin-left: 16px;
+    margin-top: 16px;
+    width: 200px;
+    
+}
+.mini-D{
+    background-color: #12102d;
+    display: block;
+    text-align: center;
+    color: #fff;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 104px;
+    padding-right: 104px;
+    margin-left: 16px;
+    margin-top: 16px;
+    width: 200px;
+}
+.section-D p3{
+    font-size: 10px;
+    text-align: center;
+    justify-content: center;
+}
+.section-E{
+    display: block;
+    background-color: #1e1b4b;
+    color: #fff;
+    padding-top: 64px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 64px;
+}
+.small-E{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    padding: 32px;
+
+}
+.small E img{
+    text-align: center;
+}
+.mini-E{
+    justify-content: center;
+    display: flex;
+}
+.section-F{
+    display: flex;
+    background-color: #fff;
+    padding: 40px;
+    color: #1e1b4b;
+    justify-content: space-between;
+    margin-top: 64px;
+}
+.text-F{
+    display: block;
+    color: #1e1b4b;
+    justify-content: space-between;
+    padding-top: 24px;
+    padding-left: 64px;
+}
+.text-F button{
+    margin-top: 24px;
+    background-color: #1e1b4b;
+    color: #fff;
+    margin-left: 0;
+}
+.image-F{
+    display: flex;
+    padding-right: 64px;
+}
+.image-F img{
+    padding: 8px;
+}
+.section-G{
+    display: flex;
+    background-color: #1e1b4b;
+    color: #fff;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 24px;
+    padding-right: 24px;
+    justify-content: space-between;
+}
+.mini-G{
+    display: flex;
+}
+.mini-G h6{
+    padding-top: 20px;
+    padding-right: 4px;
+}
+.section-H{
+    display: block;
+    text-align: center;
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+.double-H{
+    display: flex;
+    justify-content: center;
+    padding-top: 64px;
+    text-align: left;
+}
+
+.mini-H{
+    display: flex;
+    padding-right: 16px;
+}
+.small-H{
+    display: block;
+}
+.section-I{
+    height: 48px;
+    background-color: #1e1b4b;
+}

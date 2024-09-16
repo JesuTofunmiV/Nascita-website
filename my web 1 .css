@@ -1,0 +1,663 @@
+.Homepage{
+    display: block;
+    align-content: center;
+    position: relative;
+    top: 0;
+}
+
+.Page-Header{
+    display: flex;
+    border: solid 0.5px #1e1b4b;
+    align-content: center;
+    justify-content: space-between;
+    background-color: #1e1b4b;
+    height: 48px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    
+    
+}
+
+.menu{
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    width: 320px;
+    margin: auto;
+    color: white:
+}
+.menu-CTA{
+    color: #1e1b4b;
+    background-color: #fff;
+    font-family: inherit;
+    font-weight: 700;
+    padding-top: 4px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    height: 32px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 64px;
+    border: solid #fff 0.5px;
+    width: 164px;
+    border-radius: 4px;
+}
+div h1{
+    font-weight: bolder;
+    font-size: 72px;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+    
+}
+div h2{
+    
+    font-size: 56px;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+div h3{
+    
+    font-size: 40px;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+div h4{
+    
+    font-size: 32px;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+div h5{
+    
+    font-size: 24px;
+    font-weight: 800;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+div h6{
+
+    font-size: 20px;
+    color: #1e1b4b;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+div p1{
+    
+    font-size: 16px;
+    color :#1e1b4b;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+div p2{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    font-size: 12px;
+    margin-top: 8px;
+}
+div p3{
+    font-size: 8px;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+.CTA{
+    height: 36px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 40px;
+    color: white;
+    background-color: #1e1b4b;
+    font-family: inherit;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 16px;
+    padding-left: 16px;
+    border: solid #1e1b4b 0.5px;
+    border-radius: 4px;
+    font-weight: 400;
+    font-size: 14px;
+    width: 140px;
+    
+    
+}
+>LOGO{
+    width: 32px;
+    height: 32px;
+    margin-bottom: auto;
+    margin-right: 40px;
+}
+.hero-section{
+    display: block;
+    align-items: center;
+    justify-items: center;
+    justify-content: space-around;
+    height: 832px;
+    width: 100%;
+    margin-top: 0;
+}
+.hero-text{
+    color: #1e1b4b;
+    width: 50%;
+    margin-top: 40px;
+}
+.menu-text{
+    color: white;
+}
+
+.heading-ad{
+    width: 240px;
+    font-weight: bolder;
+    
+
+}
+.text-ad{
+    width: 288px;
+    font-weight: 100;
+    color: #1e1b4b;
+}
+
+.intro{
+margin: 0px;
+
+}
+
+.section-A{
+    height: 832px;
+    align-items: center;
+    margin-bottom: 32px;
+    padding-left: 24px;
+    width: 100%;
+    top: 0;
+    background-image: url(hero\ section\ BG\ homepae.png);
+}
+.mini-text{
+
+    
+    
+}
+.hero-button{
+    margin-top: 24px;
+}
+.section-B{ 
+    display: flex;
+    justify-content: space-around;
+    height: 72px;
+    margin-bottom: 88px;
+    align-items: center;
+    margin-top: 80px;
+    margin-left: 120px;
+    margin-right: 120px;
+    
+}
+.section-C{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 80px;
+    margin-top: 108px;
+    padding-left: 24px;
+    margin-left: 56px;
+    margin-right: 56px;
+    
+    
+}
+.NIN-REGISTRATION
+    {display: block; 
+    width: 288px;
+    height: 480px;
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    border: solid #1e1b4b 0px;
+    background-color: #fff;
+    border: #a5b4fc solid 0.2px;
+    box-shadow: 0.5px 2px 0.5px ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 4px;
+    margin: 8px;    
+        
+}
+.NIN-Card{
+    height: 256px;
+    width: 288px;
+    margin-left: 24px;
+    margin-right: 24px;
+    background-image: url(NIN\ Picture\ frame.png);
+}
+.SCHENGEN-VISA
+    {display: block; 
+        width: 288px;
+        height: 480px;
+        text-align: center;
+        padding-top: 24px;
+        padding-bottom: 24px;
+        background-color: #fff;
+        border: #a5b4fc solid 0.2px;
+        box-shadow: 0.5px 2px 0.5px ;
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 4px;
+        margin: 8px;
+        
+}
+.Schengen-Card{
+    height: 256px;
+    width: 288px;
+    margin-left: 24px;
+    margin-right: 24px;
+    background-image: url(schengen\ visa\ picture\ frame.png);
+}
+.Nigerian-Passport
+        {display: block; 
+    width: 288px;
+    height: 480px;
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    background-color: #fff;
+    border: #a5b4fc solid 0.2px;
+    box-shadow: 0.5px 2px 0.5px ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 4px;
+    margin: 8px;
+        
+        
+}
+.Passport-Card{
+    height: 256px;
+    width: 288px;
+    margin-left: 24px;
+    margin-right: 24px;
+    background-image: url(nigerian\ passport\ picture\ frame.png);
+}
+.BVN-Enrollment
+    {display: block; 
+    width: 288px;
+    height: 480px;
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    border: solid #1e1b4b 0px;
+    background-color: #fff;
+    border: #a5b4fc solid 0.2px;
+    box-shadow: 0.5px 2px 0.5px ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 4px;
+    margin: 8px;    
+    
+}
+.BVN-Card{
+    height: 256px;
+    width: 288px;
+    margin-left: 24px;
+    margin-right: 24px;
+    background-image: url(BVN\ picture\ Frame.png);
+}
+.new-CTA{
+    border: solid #1e1b4b 0.5px;
+    width: 122px;
+    height: 40px;
+    padding: 16px 8px 16px 8px;
+    font-family: inherit;
+    padding: 8px;
+    color: #1e1b4b;
+    border-radius: 4px;
+    margin-top: 16px;
+    background-color: #fff;
+
+
+}
+.section-D{
+    display: block;
+    justify-content: space-around;
+    margin-bottom: 88px;
+    margin-top: 128px;
+    margin-left: 64px;
+    margin-right: 64px;
+    
+}
+.intro-text{
+    font-weight: 900;
+    color: #22c55e;
+    margin-top: 8px;
+}
+.main-text{
+    font-weight: bolder;
+    color: #1e1b4b;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    font-weight: bolder;
+}
+.main-offerings{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-top: 24px;
+}
+.offering{
+    display: block;
+    width: 592px;
+    height: 184px;
+    background-color: #121020;
+    color: #fff;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    padding-right: 32px;
+    text-align: center;
+    margin: 4px;
+ 
+}
+.offering-header{
+    
+    margin-top: 0px
+    
+}
+.offering-text{
+    
+    margin-top: 0px;
+}
+.offering-icon{
+    width: 32px;
+    height: 32px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+.section-E{
+    display: block;
+    justify-content: space-between;
+    margin-bottom: 160px;
+    align-content: center;
+    background-image: url(section\ e\ bg.png);
+    background-size: cover;
+    height: 584px;
+    margin-top: 160px;
+    padding-left: 80px;
+    margin-left: 0%;
+    width: 100%;
+
+}
+.big-text{
+    width: 480px;
+    color: #fff;
+    font-weight: bolder;
+    
+}
+.big-CTA{
+    border: solid #22c55e 0.5px;
+    width: 122px;
+    height: 40px;
+    padding: 16px 8px 16px 8px;
+    font-family: inherit;
+    padding: 8px;
+    color: #fff;
+    border-radius: 4px;
+    margin-top: 16px;
+    background-color: transparent;
+     
+}
+.section-F{ 
+    display: flex;
+    justify-content: space-around;
+    height: 72px;
+    margin-bottom: 128px;
+    align-items: center;
+    margin-top: 128px;
+    margin-left: 128px;
+    margin-right: 128px;
+    
+}
+.section-G{
+    background-image: url(ad\ frame.png);
+    height: 560px ;
+    background-size: cover;
+}
+.section-H{
+    background-color: #1e1b4b;
+    height: 72px ;
+    display: block;
+    padding-top: 72px;
+    padding-bottom: 72px;
+    padding-left: 80px;
+    width: 100%;
+}
+.blue-text{
+    display: flex;
+    color: #fff;
+
+}
+.blue-small{
+    color: #22c55e;
+}
+.diff-font{
+    font-weight: 400;
+    
+}
+
+
+.section-I{
+    display: flex;
+    text-align: center;
+    height: 72px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: auto;
+    padding-right: auto;
+    margin-top: 48px;
+    margin-bottom: 88px;
+    
+}
+.small-font{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #1e1b4b;
+}
+.text-first{
+    width: 540px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+.text-firstA{
+    width: 496px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+
+.big{
+    margin:0px;
+    padding: 0px;
+    width: 480px;
+    color: #1e1b4b;
+    font-weight: bolder;
+}
+
+.small{
+    margin: 0px;
+    width: 400px;
+    color: #1e1b4b;
+    font-weight: 100;
+}
+.mini-CTA{
+    margin-top: 24px;
+    height: 36px;
+    margin-bottom: auto;
+    margin-right: 40px;
+    color: white;
+    background-color: #1e1b4b;
+    font-family: inherit;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 16px;
+    padding-left: 16px;
+    border: solid #1e1b4b 0.5px;
+    border-radius: 4px;
+    font-weight: 400;
+    font-size: 14px;
+    width: 140px;
+}
+
+.section-J{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 32px;
+    padding-right: 32px;
+    margin-top: 80px;
+    margin-bottom: 64px;
+    margin-left:88px;
+    margin-right: 88px;
+    
+    
+    
+}
+.mini-imageA{
+    background-image: url(NIN\ Picture\ css.png);
+    height: 304px;
+    width: 400px;
+    background-size: cover;
+    border-radius: 8px;
+    padding: 24px;
+}
+    
+
+.section-K{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 32px;
+    padding-right: 32px;
+    margin-top: 80px;
+    margin-bottom: 64px;
+    margin-left: 88px;
+    margin-right: 40px;
+    
+    
+    
+}
+.mini-imageB{
+    background-image: url(SCHENGEN\ VISA\ picture\ css.png);
+    height: 304px;
+    width: 400px;
+    background-size: cover;
+    border-radius: 8px;
+    padding: 24px;
+}
+.section-L{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 32px;
+    padding-right: 32px;
+    margin-top: 80px;
+    margin-bottom: 64px;
+    margin-left: 88px;
+    margin-right: 88px;
+    
+    
+    
+}
+.mini-imageC{
+    background-image: url(Nigerian\ passport\ css.png);
+    height: 304px;
+    width: 400px;
+    background-size: cover;
+    border-radius: 8px;
+    padding: 24px;
+}
+.section-M{
+    display: block;
+    justify-content: space-between;
+    margin-bottom: 80px;
+    align-content: center;
+    background-image: url(sectionM\ bg.png);
+    background-size: cover;
+    height: 584px;
+    margin-top: 160px;
+    padding-left: 80px;
+    margin-left: 0%;
+    width: 100%;
+
+}
+.section-N{
+    display: block;
+    justify-content: space-around;
+    margin-bottom: 72px;
+    margin-top: 16px;
+    margin-left: 64px;
+    margin-right: 64px;
+    
+}
+
+.main-text{
+    font-weight: bolder;
+    color: #1e1b4b;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    
+}
+.main-offeringsnew{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-top: 24px;
+}
+.offeringnew{
+    display: block;
+    width: 592px;
+    height: 320px;
+    color: #1e1b4b;
+    padding-top: 64px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    padding-right: 32px;
+    text-align: center;
+    margin: 4px;
+    border: #1e1b4b solid 0.2px;
+    border-radius: 4px;
+ 
+}
+.offering-headernew{
+    font-weight: 700;
+    margin-top: 0px;
+    color: #1e1b4b;
+    
+    
+}
+.offering-textnew{
+    padding-top: 24px;
+    margin-top: 0px;
+}
+.offering-iconnew{
+    width: 32px;
+    height: 32px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.section-O{
+    background-color: #1e1b4b;
+    height: 72px ;
+    display: block;
+    padding-top: 72px;
+    padding-bottom: 72px;
+    padding-left: 80px;
+    margin-bottom: 88px;
+    width: 100%;
+    
+}
+
+    
